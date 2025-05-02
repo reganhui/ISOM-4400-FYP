@@ -35,7 +35,7 @@ Programme Demonstration (Manual Input)
 
 ![](https://github.com/reganhui/ISOM-4400-FYP/blob/82143530ac83f3b27f9158096eef221e4324cc6f/Pasted%20image%2020250502004611.png)
 3. After you have provided the company name and other details (if any), you will have to wait for around 60 sec to 75 sec for the serverless side to initialize the backend agents. (Sometimes longer, due to the large demand for the GPUs in worldwide, I highly recommend you to test it during daytime)
-![[Pasted image 20250502005316.png]]
+![](https://github.com/reganhui/ISOM-4400-FYP/blob/f02f2c3a333e50a3845899469aaee41d1dabee37/Pasted%20image%2020250502005316.png)
 
 Programme Demonstration (CSV Upload)
 1. You may upload a .csv file (only csv, others are not accepted)
