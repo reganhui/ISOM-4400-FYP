@@ -29,7 +29,7 @@ After running the container, you can access the application by navigating to `h
 Programme Demonstration (Manual Input)
 
 1. Once you have launched the application, here is the homepage.
-![](Pasted image 20250502004449.png)
+![Pasted image 20250502004449.png]
 
 2. You must provide the company name for both to do the similarity checking
 
