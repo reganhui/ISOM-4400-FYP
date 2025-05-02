@@ -41,7 +41,7 @@ Programme Demonstration (CSV Upload)
 1. You may upload a .csv file (only csv, others are not accepted)
 ![](https://github.com/reganhui/ISOM-4400-FYP/blob/adf637b9dd65646da21001838e21570e59a5c073/Pasted%20image%2020250502005714.png)
 2. Choose the column name represent the company name and industry and address, you must provide column name for company name
-![[Pasted image 20250502010047.png]]
+![](https://github.com/reganhui/ISOM-4400-FYP/blob/06305b21849f8dcfda4d122eb2e04fe21919d6a0/Pasted%20image%2020250502010047.png)
 3. After clicking on submit, wait for few seconds to few minutes (depends on your data size), you may download the output or review it in the interface 
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdIih1ibcotPjSxokJ5uui-d29jMiucAhD9SGRLD5EUNsvBBd5M3Mc_oGvwaQX4EEyveae5HnJQOzIuDhkTFOCU322aQ_xgl-jOoM5PIAl3YjNygbpB0tBAcehUKuDKu0ZexTuv4A?key=aZ4ty--BAdjHoZrIX9BVsEdt)
