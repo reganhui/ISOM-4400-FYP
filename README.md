@@ -29,7 +29,7 @@ After running the container, you can access the application by navigating to `h
 Programme Demonstration (Manual Input)
 
 1. Once you have launched the application, here is the homepage.
-**![](Pasted image 20250502004449.png)
+**![](https://github.com/reganhui/ISOM-4400-FYP/blob/3d919892e22e84b5a658fd9249c22c7270f92859/Pasted%20image%2020250502004449.png)
 
 2. You must provide the company name for both to do the similarity checking
 
